@@ -1,1 +1,1 @@
-# Programaci-n-y-estad-stica-con-R
+# Programacion-y-estadistica-con-R
