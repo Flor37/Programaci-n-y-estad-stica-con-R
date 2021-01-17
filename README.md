@@ -1,3 +1,6 @@
-# Programacion-y-estadistica-con-R
+# Programación y estadistica con R
 
-https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion1FLORMEDINA.R
+## Sesión 1. Introducción a R y Software
+
+
+- [Ejemplo 1](https://github.com/beduExpert/Programacion-con-R-Santander/tree/master/Sesion-01/Ejemplo-01) Tipos de datos y vectores
