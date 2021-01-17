@@ -1,4 +1,4 @@
-# Programación y estadistica con R
+# Programación y estadística con R
 
 ## Sesión 1. Introducción a R y Software
 
