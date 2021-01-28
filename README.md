@@ -15,3 +15,7 @@
 ## Sesión 4. Algunas distribuciones, teorema central del lìmite y contraste de hipótesis
 
 - [Postwork Sesión 4. Equipo 22](https://github.com/AndrewTarolero/POSTWORKS-FASE2-BEDU-JAEV/blob/main/POSTWORK_4.R)
+
+## Sesión 5. Regresión lineal y clasificación
+
+- [Postwork Sesión 5](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion5FLORMEDINA.R)
