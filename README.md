@@ -12,7 +12,7 @@
 
 - [Postwork Sesión 3](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion3FLORMEDINA.R)
 
-## Sesión 4. Algunas distribuciones, teorema central del lìmite y contraste de hipótesis
+## Sesión 4. Algunas distribuciones, teorema central del límite y contraste de hipótesis
 
 - [Postwork Sesión 4. Equipo 22](https://github.com/AndrewTarolero/POSTWORKS-FASE2-BEDU-JAEV/blob/main/POSTWORK_4.R)
 
