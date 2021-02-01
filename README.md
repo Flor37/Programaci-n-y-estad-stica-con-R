@@ -22,3 +22,6 @@
 
 ## Sesión 6. Series de tiempo
 - [Postwork Sesión 6](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion6FLORMEDINA.R)
+
+## Sesión 7. RStudio Cloud - Github, conexiones con BDs y lectura de datos externos
+- [Postwork Sesión 7](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion7FLORMEDINA.R)
