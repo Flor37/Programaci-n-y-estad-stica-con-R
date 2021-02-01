@@ -19,3 +19,6 @@
 ## Sesión 5. Regresión lineal y clasificación
 
 - [Postwork Sesión 5](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion5FLORMEDINA.R)
+
+## Sesión 6. Series de tiempo
+- [Postwork Sesión 6](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion6FLORMEDINA.R)
