@@ -25,3 +25,6 @@
 
 ## Sesión 7. RStudio Cloud - Github, conexiones con BDs y lectura de datos externos
 - [Postwork Sesión 7](https://github.com/Flor37/Programaci-n-y-estad-stica-con-R/blob/main/POSTWORKsesion7FLORMEDINA.R)
+
+## Sesión 8. Dashboards con Shiny - Entorno GUI
+- [Postwork Sesión 8. Equipo 22](https://github.com/Flor37/Postwork8_Eq22)
